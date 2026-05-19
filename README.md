@@ -38,4 +38,4 @@ I am a Computer Engineering student focused on building strong technical skills 
 
 
 ## 📫 Contact
-GitHub: @tonusername
+GitHub: @https://github.com/Ritaakouala/ritaakoual
