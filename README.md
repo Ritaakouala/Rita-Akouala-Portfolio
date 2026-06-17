@@ -13,7 +13,8 @@ I am a Computer Engineering student focused on building strong technical skills 
 
 ## 🛠️ Skills
 - HTML / CSS
-- C Programming
+- React
+- Programming(C/C++ , Javascript , phyton)
 - Networking basics
 - Cybersecurity basics
 - Git & GitHub
