@@ -40,3 +40,6 @@ I am a Computer Engineering student focused on building strong technical skills 
 
 ## 📫 Contact
 GitHub: @https://github.com/Ritaakouala/ritaakouala
+
+💼 LinkedIn :https://www.linkedin.com/in/henrietta-rita-akouala-ndalla-5b3682364
+    
